@@ -1,0 +1,22 @@
+{
+  "name": "hyoyoeng",
+  "version": "1.0.0",
+  "description": "효영 프로파일 홈페이지",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnlwjd231/HyoYeongProfileHomepage.git"
+  },
+  "author": "박휘정 (heizle)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnlwjd231/HyoYeongProfileHomepage/issues"
+  },
+  "homepage": "https://github.com/gnlwjd231/HyoYeongProfileHomepage",
+  "dependencies": {
+    "sass": "^1.56.2"
+  }
+}
