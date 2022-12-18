@@ -30,7 +30,7 @@ npm manifest:
   {
     "name": "hyoyoeng",
     "version": "1.0.0",
-    "description": "효영 프로파일 홈페이지",
+    "description": "호영 프로파일 홈페이지",
     "main": "index.html",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
